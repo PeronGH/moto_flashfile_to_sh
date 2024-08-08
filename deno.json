@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "@libs/xml": "jsr:@libs/xml@^5.4.13",
+    "@std/cli": "jsr:@std/cli@^1.0.3"
+  }
+}
